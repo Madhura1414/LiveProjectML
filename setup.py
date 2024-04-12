@@ -1,3 +1,6 @@
+# tells how to install the packages. the metadata of the package
+# details of the package
+
 from setuptools import find_packages, setup
 from typing import List
 

@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: LP-ML-Project
+Version: 0.0.1
+Summary: An End-to-end ML pipeline project about Diamond price prediction
+Author: Madhura Patil
+Author-email: madhurapatil222@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask
+Requires-Dist: sklearn
+Requires-Dist: seaborn
